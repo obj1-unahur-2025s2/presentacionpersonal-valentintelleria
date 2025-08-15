@@ -12,4 +12,4 @@
 - Durante el secundario hice los 3 años de FOBA en una escuela de música y, antes de comenzar esta carrera, hice un año de Licenciatura en Música. Luego me di cuenta de que prefería dejar la musica como un hobby, y me decidi por esta carrera.
 - Tengo un perro que se llama Pepi (adjunto imagen):
 
-![Foto Pepi][IMG_20200314_141900](https://github.com/user-attachments/assets/255c8de3-ade4-4b44-b820-6959d3eb1546)
+![IMG_20200314_141900](https://github.com/user-attachments/assets/255c8de3-ade4-4b44-b820-6959d3eb1546)
